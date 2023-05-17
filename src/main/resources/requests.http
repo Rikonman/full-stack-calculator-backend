@@ -1,0 +1,6 @@
+### Add
+GET http://localhost:8080/add/5/13
+### Add
+GET http://localhost:8080/subtract/13/2
+### Add
+GET http://localhost:8080/multiply/4/7
